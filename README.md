@@ -26,4 +26,4 @@ The application demonstrates the practical application of the Software Developme
     * **Admin ID:** `admin` | **Password:** `admin123`
 
 ## Live Deployment
-You can view the live project here: [INSERT LINK HERE AFTER STEP 4]
+You can view the live project here: https://ibadatkhan.github.io/ISE-Final-Project/ 
